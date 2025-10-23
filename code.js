@@ -293,7 +293,7 @@ nav a:hover { color: var(--accent); }
     desc: 'Social media app prototype built in Java for university project.',
     thumb: 'assets/images/portfolio-thumb.png',
     github: 'https://github.com/Dembem1/Java_SNA',
-    demo: '#',
+    demo: 'https://github.com/Dembem1/Java_SNA',
     tree: {
         'README.md': '# SNA Social Media App Prototype',
         'src': {
